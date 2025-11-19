@@ -61066,7 +61066,7 @@ $1(a){return A.ul(new A.a5Q(this.a))},
 $S:395}
 A.a5Q.prototype={
 $2(a,b){var s=null,r=A.lt(17),q=Math.min(b.b*0.8,280),p=A.lt(17),o=this.a.z,n=A.eC("Lily, in case that you need this information, aplikasi web ini aku buat dengan menggunakan Flutter dan juga Firebase realtime database. Kodingannya bisa kamu lihat di sini",5,o,B.av),m=o==null,l=A.aik(A.eC("github.com/azzamt11/for_lily",s,m?s:o.hY(B.by),B.av),new A.a5N()),k=A.eC("Untuk hasil build web nya bisa kamu lihat di sini",5,o,B.av),j=t.c
-return new A.oj(B.zp,new A.cq(r,B.wq),A.wn(A.a([A.oe(A.afu(A.a([n,B.eV,l,B.eV,k,B.eV,A.aik(A.eC("github.com/azzamt11/for_lily_web",s,m?s:o.hY(B.by),B.av),new A.a5O()),B.eV,A.eC("Eh.. Lily, punya pasangan anak IT ada banyak keuntungannya lho. Soalnya anak IT bisa mengerjakan banyak hal. Termasuk ini... hehe",5,o,B.av)],j),B.bX,B.hF,0),s,new A.iJ(B.i,s,s,p,s,s,B.cv),s,s,B.zm,q),new A.d7(B.f7,s,s,new A.cp(B.zt,A.aru(s,B.A5,s,s,new A.a5P(a),B.zk,s),s),s)],j),B.dp),s)},
+return new A.oj(B.zp,new A.cq(r,B.wq),A.wn(A.a([A.oe(A.afu(A.a([n,B.eV,l,B.eV,k,B.eV,A.aik(A.eC("github.com/azzamt11/for_lily_web",s,m?s:o.hY(B.by),B.av),new A.a5O()),B.eV,A.eC("Eh.. Lily, punya pasangan anak IT ada banyak keuntungannya lho. Soalnya anak IT bisa melakukan banyak hal. Termasuk ini... hehe",5,o,B.av)],j),B.bX,B.hF,0),s,new A.iJ(B.i,s,s,p,s,s,B.cv),s,s,B.zm,q),new A.d7(B.f7,s,s,new A.cp(B.zt,A.aru(s,B.A5,s,s,new A.a5P(a),B.zk,s),s),s)],j),B.dp),s)},
 $S:396}
 A.a5N.prototype={
 $0(){var s=0,r=A.G(t.H),q
