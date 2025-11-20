@@ -64267,7 +64267,7 @@ A.y5.prototype={
 aI(){var s,r,q=this
 q.bf()
 s=q.d
-s.nB(new A.t0("assets/Gyubin__Really_Like_You.mp3",null))
+s.nB(new A.t0("Gyubin__Really_Like_You.mp3",null))
 q.r=!0
 s.ga6T().f4(new A.a6v(q))
 r=s.Q
@@ -64286,7 +64286,7 @@ return A.w(p.i4(),$async$oR)
 case 5:s=3
 break
 case 4:s=6
-return A.w(p.nB(new A.t0("assets/Gyubin__Really_Like_You.mp3",null)),$async$oR)
+return A.w(p.nB(new A.t0("Gyubin__Really_Like_You.mp3",null)),$async$oR)
 case 6:case 3:q.aR(new A.a6p(q))
 return A.A(null,r)}})
 return A.B($async$oR,r)},
